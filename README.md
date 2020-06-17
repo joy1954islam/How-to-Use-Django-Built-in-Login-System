@@ -1,4 +1,4 @@
-# How-to-Use-Django-s-Built-in-Login-System
+# How-to-Use-Django-Built-in-Login-System
 
 # SetUp
 1) please setup(login_and_registraion/settings.py) 
